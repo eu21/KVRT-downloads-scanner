@@ -3,12 +3,19 @@ Title: KVRT downloads scanner
 Date and Time: 2024-11-23 13:49
 Simple Tags: #PS2EXE #KVRT #antivirus #virus
 References:
+
 https://webnote.satin-pl.com/2018/05/30/kvrt_silent/
+
 https://support.kaspersky.com/help/kvrt/2024/ru-ru/269475.htm
+
 https://support.kaspersky.ru/kvrt2024/269475
+
 https://www.youtube.com/watch?v=o730kcgY2Bk
+
 https://github.com/MScholtes/PS2EXE
+
 https://gist.github.com/adamff-dev/8fbec036609a4a399558f3094c8690eb
+
 Noted Tags: 
 Problem: Need free and good working antivirus for Windows/Linux
 Solution:
